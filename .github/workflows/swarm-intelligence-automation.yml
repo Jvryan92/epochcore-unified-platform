@@ -142,7 +142,6 @@ jobs:
           echo "☁️ Cloudflare Workers-First Deployment Starting..."
           echo "📦 Services: Workers + Pages + KV + Durable Objects + R2 + D1"
           echo "🌍 Regions: Global Edge
-"
           echo "⚡ Auto-scaling: ENABLED"
           echo "🚀 Edge Optimization: MAXIMUM"
           echo "✅ Cloudflare Workers: DEPLOYED"
